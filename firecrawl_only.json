@@ -1,0 +1,7 @@
+"firecrawl": {
+  "command": "npx",
+  "args": ["-y", "firecrawl-mcp"],
+  "env": {
+    "FIRECRAWL_API_KEY": "fc-YOUR_API_KEY_HERE"
+  }
+}
