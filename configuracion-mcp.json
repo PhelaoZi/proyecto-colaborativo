@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\tu_usuario\\Desktop",
+        "C:\\Users\\tu_usuario\\Downloads"
+      ]
+    }
+  }
+}
